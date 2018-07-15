@@ -1,0 +1,13 @@
+{
+  "files.associations": {
+    "ostream": "cpp",
+    "array": "cpp",
+    "hash_map": "cpp",
+    "initializer_list": "cpp",
+    "utility": "cpp",
+    "complex": "cpp",
+    "ratio": "cpp",
+    "system_error": "cpp",
+    "type_traits": "cpp"
+  }
+}
